@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://imgbb.host/images/N7vG.jpeg",
+      "title": "Exploring the Mysteries of Deep Space",
+      "author": "Jane Doe",
+      "author_img": "https://imgbb.host/images/NnSV.jpeg",
+      "posted_date": "March 15, 2024",
+      "reading_time": 10,
+      "hashtag": "#SpaceExploration"
+    },
+    {
+      "id": 2,
+      "cover_img": "https://imgbb.host/images/N6k1.jpeg",
+      "title": "The Art of Mindfulness: Finding Peace Within",
+      "author": "John Smith",
+      "author_img": "https://imgbb.host/images/NnSV.jpeg",
+      "posted_date": "March 14, 2024",
+      "reading_time": 8,
+      "hashtag": "#MindfulnessJourney"
+    },
+    {
+      "id": 3,
+      "cover_img": "https://imgbb.host/images/N8OE.jpeg",
+      "title": "Unleashing Creativity: Tips for Inspired Writing",
+      "author": "Emily Johnson",
+      "author_img": "https://imgbb.host/images/NnSV.jpeg",
+      "posted_date": "March 13, 2024",
+      "reading_time": 12,
+      "hashtag": "#CreativeWritingTips"
+    },
+    {
+      "id": 4,
+      "cover_img": "https://imgbb.host/images/NtKS.jpeg",
+      "title": "The Power of Positive Thinking: Transform Your Life",
+      "author": "David Williams",
+      "author_img": "https://imgbb.host/images/NnSV.jpeg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 15,
+      "hashtag": "#PositiveMindset"
+    },
+    {
+      "id": 5,
+      "cover_img": "https://imgbb.host/images/NRAM.jpeg",
+      "title": "Healthy Eating Habits for a Balanced Life",
+      "author": "Sarah Anderson",
+      "author_img": "https://imgbb.host/images/NnSV.jpeg",
+      "posted_date": "March 11, 2024",
+      "reading_time": 7,
+      "hashtag": "#HealthyLiving"
+    }
+  ]
+  
